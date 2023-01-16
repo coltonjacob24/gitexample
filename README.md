@@ -1,4 +1,4 @@
 # gitexample
 gitexample
 
-Prints the first 100 Fibonacci numbers
+Prints the first 10 Fibonacci numbers

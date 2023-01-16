@@ -5,8 +5,8 @@ import (
 )
 
 func main() {
-	fmt.Println("100 Fibonacci numbers")
-	for i := 0; i <= 100; i++ {
+	fmt.Println("10 Fibonacci numbers")
+	for i := 0; i <= 10; i++ {
 		fmt.Printf("[%d]%4d\n", i, nthFib(i))
 	}
 }
