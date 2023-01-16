@@ -22,4 +22,4 @@ jobs:
         go-version: 1.19
         
     - name: Go example
-      uses: coltonjacob24/gitexample@v1
+      uses: coltonjacob24/gitexample@v2
